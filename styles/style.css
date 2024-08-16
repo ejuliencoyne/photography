@@ -18,7 +18,6 @@ hr{
 
 .inline{
 	float: left;
-	padding-top: 40px;
 	padding-right: 20px;
     width: 30%;
 }
@@ -42,6 +41,14 @@ hr{
     font-size: 12px;
     text-align: left;
     line-height: 1.75em;
+}
+
+.banner-img{
+	max-width: 400px;
+}
+
+.logo{
+	max-width: 80px;
 }
 
 p {
